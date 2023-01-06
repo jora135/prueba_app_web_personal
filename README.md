@@ -1,5 +1,4 @@
 # prueba_app_web_personal
-aplicacion web responsive personal
 
 Aplicacion Web Responsive:
 
